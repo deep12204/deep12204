@@ -88,17 +88,7 @@ Currently deep-diving into **LLM orchestration** and **system design**, and alwa
 </div>
 
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         TROPHIES                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deep12204&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
 
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
