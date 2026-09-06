@@ -36,18 +36,28 @@ CSE student who turns ideas into real, working AI + full-stack products — from
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20,25,12"/>
 </div>
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/deep12204/deep12204/output/github-contribution-grid-snake-dark.svg"/>
+
+<img src="https://raw.githubusercontent.com/deep12204/deep12204/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=deep12204&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20,25,12"/>
-</div>
 
-### 🏆 Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=deep12204&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-</div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blocks&color=gradient&customColorList=6,11,20,25,12&height=120&section=footer&animation=fadeIn"/>
 </div>
