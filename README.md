@@ -4,7 +4,7 @@
 <!--                           HEADER                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,25,12&text=DEEPANJALI%20KUMARI&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blocks&height=250&color=gradient&customColorList=6,11,20,25,12&text=DEEPANJALI%20KUMARI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=17"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=800&color=7F5AF0&center=true&vCenter=true&width=800&height=50&lines=Building+AI-powered+products+%F0%9F%A4%96;Full-Stack+%7C+RAG+%7C+LLMs+%7C+System+Design;Turning+ideas+into+shipped+code+%E2%9C%A8"/>
 
@@ -52,5 +52,5 @@ CSE student who turns ideas into real, working AI + full-stack products — from
 </div>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,12&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blocks&color=gradient&customColorList=6,11,20,25,12&height=120&section=footer&animation=fadeIn"/>
 </div>
