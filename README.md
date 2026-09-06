@@ -67,13 +67,10 @@ Currently deep-diving into **LLM orchestration** and **system design**, and alwa
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deep12204&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=2CB67D&text_color=c9d1d9"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deep12204&theme=radical&hide_border=true&background=0D1117&ring=7F5AF0&fire=2CB67D&currStreakLabel=ffffff"/>
 
 <br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=deep12204&theme=react-dark&hide_border=true&bg_color=0D1117&color=7F5AF0&line=2CB67D&point=ffffff"/>
 
 </div>
 
