@@ -83,7 +83,7 @@ Currently deep-diving into **LLM orchestration** and **system design**, and alwa
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/deep12204/deep12204/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/deep12204/deep12204/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
