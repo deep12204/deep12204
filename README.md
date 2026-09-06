@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Deepanjali Kumari
+────────────────────────────────
+
+👩‍💻 Software Developer | AI/ML | Full Stack
+
+Building intelligent systems and scalable applications.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Featured Projects
+
+NeuroDeploy
+AI-powered deployment & code intelligence platform
+
+ZenMind
+AI-assisted mental health platform
+
+ResearchDigest
+Research paper discovery & simplification
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ Tech Stack
+
+C++ • Python • JavaScript • React • Next.js
+FastAPI • Docker • ChromaDB • SQL
+Scikit-learn • Git • GitHub
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 Coding
+
+150+ LeetCode problems
