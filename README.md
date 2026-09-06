@@ -14,36 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Deepanjali Kumari
-────────────────────────────────
+<div align="center">
 
-👩‍💻 Software Developer | AI/ML | Full Stack
+# 👩🏻‍💻 Deepanjali Kumari
 
-Building intelligent systems and scalable applications.
+### `Computer Science Engineer` · `Full-Stack Developer` · `AI/ML Enthusiast`
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Building intelligent products, developer tools & scalable systems.
 
-🚀 Featured Projects
+<br/>
 
-NeuroDeploy
-AI-powered deployment & code intelligence platform
+<a href="https://github.com/deep12204">
+  <img src="https://img.shields.io/badge/GitHub-Deepanjali-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-ZenMind
-AI-assisted mental health platform
+<br/><br/>
 
-ResearchDigest
-Research paper discovery & simplification
+<img src="https://komarev.com/ghpvc/?username=deep12204&style=flat-square&color=blueviolet&label=PROFILE+VIEWS"/>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</div>
 
-🛠️ Tech Stack
+---
 
-C++ • Python • JavaScript • React • Next.js
-FastAPI • Docker • ChromaDB • SQL
-Scikit-learn • Git • GitHub
+## ✦ About Me
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📊 Coding
-
-150+ LeetCode problems
+```text
+🎓  Computer Science Engineering @ JSSATE Bengaluru
+💻  Full-Stack Development + AI/ML
+🧠  Interested in RAG, intelligent systems & scalable architecture
+🚀  Building practical products that solve real-world problems
+🧩  150+ DSA problems solved
