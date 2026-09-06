@@ -55,9 +55,3 @@ CSE student who turns ideas into real, working AI + full-stack products — from
 </div>
 
 ---
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20,25,12"/>
-
-</div>
