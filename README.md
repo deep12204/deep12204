@@ -33,7 +33,7 @@ CSE student who turns ideas into real, working AI + full-stack products — from
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deep12204&theme=react-dark&hide_border=true&bg_color=0D1117&color=7F5AF0&line=2CB67D&point=ffffff&width=90%25"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20,25,12"/>
+
 </div>
 
 ## 🐍 Contribution Snake
