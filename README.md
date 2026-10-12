@@ -18,19 +18,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>&nbsp;
-
 <a href="mailto:deepanjalik965@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=deep12204&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS"/>
-
-<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20,25,12"/>
 
