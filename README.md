@@ -1,6 +1,37 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,25,12&text=Deepanjali%20Kumari&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=16" alt="Deepanjali Kumari — Computer Science Student, Full-Stack Developer, and AI/ML Enthusiast" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=gradient&customColorList=6,12,20" alt="" />
+
+<br>
+
+### ✦ &nbsp; DEEPANJALI KUMARI &nbsp; ✦
+
+**Computer Science Student**  
+Full-Stack Developer&nbsp; · &nbsp;AI/ML Enthusiast
+
+<br>
+
+<a href="https://github.com/deep12204">
+  <img src="https://img.shields.io/badge/GitHub-211A2C?style=flat-square&logo=github&logoColor=E9D5FF" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/deepanjali-kumari-524309303/">
+  <img src="https://img.shields.io/badge/LinkedIn-211A2C?style=flat-square&logo=linkedin&logoColor=E9D5FF" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:deepanjalik965@gmail.com">
+  <img src="https://img.shields.io/badge/Email-211A2C?style=flat-square&logo=gmail&logoColor=E9D5FF" alt="Email" />
+</a>
+
+<br><br>
+
+<sub>Building thoughtful software at the intersection of web and AI.</sub>
+
+<br><br>
+
+</div>
 
 <p>
   <a href="https://github.com/deep12204">
