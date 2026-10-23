@@ -49,7 +49,6 @@ Currently exploring **LLM applications, retrieval-augmented generation (RAG), an
 
 <br><br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep12204&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B7BFF&text_color=C9D1D9" alt="Most used programming languages" />
 
 </div>
 
