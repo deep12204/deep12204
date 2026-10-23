@@ -32,13 +32,6 @@ I’m a Computer Science student who enjoys building useful products across the 
 
 Currently exploring **LLM applications, retrieval-augmented generation (RAG), and system design**. I learn by building, experimenting, and turning ideas into working software.
 
-## 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nodejs,express,mongodb,postgres,docker,git,figma&perline=6" alt="C++, Python, JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, Docker, Git, and Figma" />
-
-</div>
 
 ## 📊 GitHub Activity
 
